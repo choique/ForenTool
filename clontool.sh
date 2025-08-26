@@ -1,7 +1,4 @@
 #!/bin/bash
-# Script clonación USB con whiptail + barra de progreso con pingüinos animados 🐧
-# Ejecutar como root
-
 ## chmod +x clotool.sh
 ## sudo apt intall whiptail pv
 ## sudo ./clontool.sh
@@ -11,7 +8,6 @@
 # Fecha: 2024-06-20
 # Versión: 1.0
 # Repositorio:
-#!/bin/bash
 # Clonación bit a bit con menú interactivo, barra de progreso estable y hashes finales
 # Ejecutar como root
 
